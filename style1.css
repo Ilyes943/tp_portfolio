@@ -1,0 +1,52 @@
+#entete, #menu, #contenu, #footer {
+padding:1px 0;
+height: 100px;
+border-bottom:solid white 10px;
+
+}
+
+#entete {
+background-color:#FF9900;
+text-align:center;
+}
+
+#main {
+max-with:960px;
+margin:auto;
+border-bottom:solid white 10px;
+
+}
+
+#menu  {
+float:left;
+width:240px;
+margin-top: 0px;
+
+text-align:center;
+line-height: 40px;
+
+
+
+
+
+}
+
+#contenu {
+margin-left:245px;
+padding-top: 200px;
+border: solid 3px;
+text-align:center;
+
+
+}
+
+#footer {
+background-color:#669933;
+text-align:center;
+clear:both;
+height: 100px;
+
+}
+
+
+
